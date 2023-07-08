@@ -1,1 +1,1 @@
-# Meus projetos em JS.
+# Meus projetos e atividades práticas em JS .
